@@ -33,7 +33,7 @@ This project does not deal with TX_DS.
 
 # Wirering
 __For this project we need one more connection for IRQ detection.__   
-|nRF24L01||ESP32|ESP32-S2/S3|ESP32-C2/C3/C6||
+|nRF24L01||ESP32|ESP32-S2/S3|ESP32-C2/C3/C6|ESP32-P4||
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |MISO|--|GPIO19|GPIO37|GPIO4|(*1)|
 |MOSI|--|GPIO23|GPIO35|GPIO3|(*1)|
